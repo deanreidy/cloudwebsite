@@ -20,5 +20,5 @@ const routes = require('./routes');
 app.use('/', routes);
 
 const listener = app.listen(process.env.PORT || 4000, function () {
-  console.log(`glitch-resource1 started on port ${listener.address().port}`);
+  logger.info(`glitch-resource1 started on port ${listener.address().port}`);
 });
