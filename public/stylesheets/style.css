@@ -1,0 +1,15 @@
+.ui.table thead th
+{
+  background-image: url("https://cdn.glitch.com/59ad0348-921d-4085-bee4-13596425583d%2Fheader.jpg?1519818915489");
+  color:black;
+  font-size: 15px;
+  padding: 20px;
+}
+  
+
+
+body
+{
+  background-image: url("https://cdn.glitch.com/59ad0348-921d-4085-bee4-13596425583d%2Fbook.jpg?1519659196549");
+}
+
