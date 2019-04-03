@@ -1,0 +1,17 @@
+{{#each bookmarks}}
+  <section class="ui segment green">
+    <h2 class="ui header {{color}}">
+      {{title}} <i class = "large icon eye"></i>
+      {{link}}
+    </h2>
+    <a href="/bookmark/{{id}}" class="ui icon button">
+      <i class="icon folder open"></i> </a>
+    
+    <a href="/deleteBookmark/{{id}}" class="delbookmark ui icon button" ><i class="trash icon"></i></a>
+    
+ 
+  </section>
+
+
+
+{{/each}}

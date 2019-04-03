@@ -1,0 +1,83 @@
+{
+  "bookmarkCollection": [
+    {
+      
+      "id" : "01",
+      "color" : "blue",
+      "title": "HTML Learning Resources",
+      "websites": [
+        {
+          
+          "id" : "02",
+          "title": "W3Schools",
+          "link": "https://www.w3schools.com/"
+        },
+        {
+          
+          "id" : "03",
+          "title": "Code Cademy",
+          "link": "https://www.codecademy.com/learn/learn-html"
+          
+        },
+        {
+          
+          "id" : "04",
+          "title": "Website Setup",
+          "link": "https://websitesetup.org/html-tutorial-beginners/"
+        }
+      ]
+    },
+    {
+      "id" : "05",
+      "color" : "yellow",
+      "title": "CSS Learning Resources",
+      "websites": [
+        {
+          
+          "id" : "06",
+          "title": "CSS videos",
+          "link": "http://cssvideos.com/"
+        },
+        {
+          
+          "id" : "07",
+          "title": "Code Institute",
+          "link": "https://www.codeinstitute.net/5-day-coding-challenge/?utm_source=google&utm_medium=cpc&utm_campaign=Search-IRL-CSS-Hi-Vol&ads_cmpid=202198937&ads_adid=14408637017&ads_matchtype=b&ads_network=g&ads_creative=248306126369&utm_term=%2Blearn%20%2Bcss&ads_targetid=kwd-20836616062&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=EAIaIQobChMIhojYwPyg2QIVYb7tCh3gDwPtEAAYAiAAEgJIevD_BwE"
+        },
+        {
+          
+          "id" : "08",
+          "title": "CSS tutorial",
+          "link": "https://www.csstutorial.net/"
+        }
+      ]
+    },
+      {
+        
+        "id" : "09",
+        "color" : "orange",
+        "title": "JavaScript Learning Resources",
+        "websites": [
+        {
+          
+          "id" : "10",
+          "title": "Udacity",
+          "link": "https://eu.udacity.com/course/javascript-basics--ud804"
+        },
+        {
+          
+          "id" : "11",
+          "title": "Code School",
+          "link": "https://www.codeschool.com/learn/javascript"
+        },
+        {
+          
+          "id" : "12",
+          "title": "JavaScript for Cats",
+          "link": "http://jsforcats.com/"
+        }
+      ]
+    }
+    
+  ]
+}
